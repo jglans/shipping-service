@@ -9,10 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "jest": "^23.6.0"
   },
   "directories": {
     "test": "tests"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nock": "^10.0.6",
+    "sinon": "^7.2.2"
+  }
 }
